@@ -1,8 +1,5 @@
 # TierraDeBarbaros
 
-Tierra de Bárbaros 
-====================
-
 Rechapos! - En la tierra de Udrogoth los reyes bárbaros formaron un imperio de guerreros, dragones y magia. Ahora marcharon a la guerra contra el mal y dejaron a sus herederos a cargo.... y bueno, hay que conformarse.
 Sin embargo, nos encargaron confeccionar un programa en Haskell para manejar los asuntos del reino, y evitar así el tener que gobernar.
 
